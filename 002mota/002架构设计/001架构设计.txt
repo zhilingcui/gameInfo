@@ -1,0 +1,18 @@
+1.生产服务器
+	Linux服务器
+2.部署工具(开放端口使用默认值)
+	mysql数据库， docker， nginx
+3.开发环境(版本使用最新版本)
+	windows
+		node
+		npm
+		java
+4.开发工具
+	eclipse(java)
+	visual studio code(web)
+	navicat for MySQL(mysql)
+5.开发架构
+	java
+		-spring boot
+	web	
+		-react
