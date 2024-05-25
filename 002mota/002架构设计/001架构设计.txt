@@ -7,12 +7,21 @@
 		node
 		npm
 		java
+4.版本控制
+	git
+5.源代码上传地址
+	gitHub
 4.开发工具
-	eclipse(java)
+	Spring Tool Suite(java)
 	visual studio code(web)
 	navicat for MySQL(mysql)
 5.开发架构
 	java
+		-spring
 		-spring boot
+		-spring data         数据持久化
+		-lombok				简单工具
+		-spring boot jpa	数据库连接处理 可与 mybits对比
+		-mysql-connector-j  mysql的连接驱动
 	web	
-		-react
+		-vue
